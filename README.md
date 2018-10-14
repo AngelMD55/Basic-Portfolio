@@ -1,2 +1,2 @@
-# Basic-Potafolio
+# Basic-Portfolio
 Homework assignment #1
