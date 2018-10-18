@@ -1,0 +1,241 @@
+html {
+    background-image: url('../images/brickwall.png');
+    
+}
+.clear {
+    clear: both;
+}
+
+body {
+   
+    border-color:#dddddd;
+    font-family: "Arial";
+}
+
+header {
+    width: 601px;
+    background: #ffffff;
+    border-color: #cccccc;
+    position: fixed;
+    font-family:"times";
+    left: 24.65%;
+    top: 0;
+    border-bottom: 2px solid #cccccc;
+    z-index: 3;
+    padding-left: 0px;
+    padding-right: 40px;
+}
+
+.bh {
+    width: 100%;
+    background: #ffffff;
+    border-color: #cccccc;
+    position: fixed;
+    top: 0;
+    border-bottom: 2px solid #cccccc;
+    padding: 20px;
+
+}
+
+hr{
+    height: 1px;
+    background-color: #cccccc;
+}
+h1{
+    color: #4aaaa5;
+    font-size: 32px;
+    padding-bottom: 10px;
+}
+
+.alle{
+    float: right;
+}
+
+.ali{
+    float: left;
+}
+
+.alr{
+    float: right;
+}
+
+section{
+    padding: 20px;
+    border:0;
+    margin:0;
+    
+}
+
+
+
+
+
+
+
+
+
+/* ######################## THIS IS USED FOR THE HEADER ##################*/
+
+#angeld {
+    float: left;
+    background-color: #4aaaa5;
+    color: #ffffff;
+    
+    
+
+}
+
+#left{
+    float: left;
+
+}
+
+#middle{
+    float: left;
+
+}
+
+#right{
+    float: left;
+    
+}
+
+.divi{
+    float: left;
+}
+
+/* ################# THIS IS USED FOR THE INDEX MIDDLE #################*/
+
+.angelpic {
+    float: left;
+    margin: 3px 10px 0px 0px;
+}
+
+.wrap{
+    width: 600px;
+    padding: 20px;
+    margin: 0 auto;
+    background-color: #ffffff;
+    border-color: #dddddd;
+    top: 0;
+    position: relative;
+
+}
+
+.porme{
+    height:750px;
+}
+
+
+/* ################## PICTURES ############*/
+
+#hanpic{
+    position: absolute;
+    top: 120px;
+    left: 50px;
+}
+
+#rpgpic{
+    height: 200px;
+    width: 183px;
+    position: absolute;
+    top: 120px;
+    right: 50px;
+}
+
+#tripic{
+    height: 200px;
+    width: 183px;
+    position: absolute;
+    top: 335px;
+    left: 50px;
+}
+
+#riwpic{
+    height: 200px;
+    width: 183px;
+    position: absolute;
+    top: 335px;
+    right: 50px;
+}
+
+#rpspic{
+    height: 200px;
+    width:  183px;
+    position: absolute;
+    top: 555px;
+    left: 50px;
+}
+
+/* ########## WORDS IN PICTURES ############*/
+.worpic{
+    background-color: #4aaaa5;
+    padding: 20px;
+    width: 143px;
+    text-align: center;
+}
+
+#hangman{
+
+    position: absolute;
+    top: 240px;
+    left:50px;
+}
+
+#rpg{
+    position: absolute;
+    top: 240px;
+    right:50px;
+}
+
+#trivia{
+    position: absolute;
+    top: 455px;
+    left: 50px;
+   
+}
+
+#riw{
+    position: absolute;
+    top:455px;
+    right:50px;
+}
+
+#rps{
+    position: absolute;
+    top: 680px;
+    left:50px;
+    font-size: 15px;
+}
+
+/* ######### CONTACT FORM ########*/
+
+#name{
+    width: 600px;
+}
+
+#email{
+    width: 600px;
+}
+
+#message{
+    width: 600px;
+    height: 200px;
+}
+
+
+
+/* ###################### FOOTER #################### */
+
+footer{
+    text-align: center;
+    padding: 20px;
+    background-color: #666666;
+    position: fixed;
+    border-color: #4aaaa5;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    border-top: 8px solid #4aaaa5;  
+    margin: 0px
+}
